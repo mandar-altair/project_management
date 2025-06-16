@@ -237,10 +237,13 @@ def power(base: float, exponent: float) -> float:
     """
     return base ** exponent
 ```
+## 7. Use of Defined Templates
+
+Please use the templates in this repository for specific programming languages to maintain consistency across different projects.
 
 ---
 
-## 7. **Checklist Before Submission**
+## 8. **Checklist Before Submission**
 
 - [ ] Tests written and passing (TDD followed)
 - [ ] Code reviewed and merged via PR
